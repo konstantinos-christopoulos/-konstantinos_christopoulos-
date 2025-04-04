@@ -36,7 +36,7 @@ I'm a Research Assistant at the University of Salford working on Smart Home Auto
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [7DOF Inverse Kinematics](https://github.com/konstantinos_christopoulos/7DOF-Inverse-Kinematics) | ML + Optimization for robotic arm IK problem | Python, Jupyter, scikit-learn |
+| [7DOF Inverse Kinematics](https://github.com/konstantinos-christopoulos/7DOF-Inverse-Kinematics) | ML + Optimization for robotic arm IK problem | Python, Jupyter, scikit-learn |
 
 
 *More to be added soon!*
