@@ -15,6 +15,7 @@ I'm a Research Assistant at the University of Salford working on Smart Home Auto
 - 🏠 Smart Home Automation: Home Assistant, KNX, OpenHAB
 - 🧠 Energy & Flexibility Modeling: Python, Pandas, Numpy, MQTT, R Programming Language, MATLAB
 - 🔌 IoT Protocols: Modbus RTU/TCP, LoRaWAN, Zigbee, REST APIs
+- 🤖 Robotics & Control Systems: Inverse Kinematics, Optimization Algorithms, Feedforward Neural Networks, Scikit-learn, Particle Swarm Optimization, Simulated Annealing
 - 📊 Data Analysis & Visualization: Jupyter, Matplotlib, Excel, PowerBI
 - ⚡ Smart Metering & BEMS Integration
 - 🐳 Virtualization & Containers: Docker, VirtualBox, Ubuntu
